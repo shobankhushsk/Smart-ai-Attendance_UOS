@@ -1,0 +1,16 @@
+{
+  "name": "Smart Attendance Scanner - University of Sindh",
+  "short_name": "Attendance",
+  "description": "Scan attendance sheets and get present student lists instantly - Faculty of Engineering and Technology, University of Sindh",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F2E9",
+  "theme_color": "#0D1B33",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
